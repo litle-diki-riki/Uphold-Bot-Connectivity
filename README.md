@@ -50,7 +50,7 @@ Replace `[currencyPairs]`, `[fetchInterval]`, and `[oscillationThreshold]` with 
 
 ## Requirments Implemented
 
-- Phase 1 ✔
+- Phase 1: ✔
 
 - Phase 2:
     - Enable the bot to handle multiple currency pairs concurrently, allowing it to monitor
@@ -63,3 +63,6 @@ Replace `[currencyPairs]`, `[fetchInterval]`, and `[oscillationThreshold]` with 
     -  Store relevant information in the database for each alert, including timestamps, rates,
     and the bot configuration at the time of the alert. This allows for comprehensive
     tracking and analysis of the alerts over time. ✔
+
+
+- I was unable to implement the requirements that involved the test suite implementation, Dockerization of the application and the integration of a Postgres database. I acknowledge that I need additional time to acquire a deeper understanding of these technologies and to develop the skills required for their successful implementation.
