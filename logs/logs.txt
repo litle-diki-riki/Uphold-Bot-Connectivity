@@ -1,6 +1,0 @@
-ID: e68feed1-ac0b-4a7b-9a74-af3b80e41c4e	DateTime: 22/09/2023 14:58:24	Oscillation Percentage: 0%	Currency Pair: BTC-EUR	Current Value: 24954.83188036240310204491
-ID: d79ef3af-68b9-4ace-895f-55d512dbda60	DateTime: 22/09/2023 14:58:24	Oscillation Percentage: 0%	Currency Pair: BTC-USD	Current Value: 26585.693167172
-ID: 071679d3-5e64-4cf3-a227-89129e42caeb	DateTime: 22/09/2023 14:58:24	Oscillation Percentage: 0%	Currency Pair: BTC-ETH	Current Value: 16.68697055887886881462
-ID: b61d80c3-122d-4c5e-8e62-945d63faef6c	DateTime: 22/09/2023 14:58:26	Oscillation Percentage: 0.007730630270254933%	Currency Pair: BTC-EUR	Current Value: 24956.76104614963618920784
-ID: 1dc6126a-6b08-4ef9-ae27-ab2cbcb33041	DateTime: 22/09/2023 14:58:26	Oscillation Percentage: 0.0030386468421968525%	Currency Pair: BTC-USD	Current Value: 26586.5010124979
-ID: b573ad98-eb06-48d7-ad19-6cbced0048ae	DateTime: 22/09/2023 14:58:26	Oscillation Percentage: -0.008385265361846877%	Currency Pair: BTC-ETH	Current Value: 16.68557131211665271662
