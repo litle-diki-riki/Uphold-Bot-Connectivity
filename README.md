@@ -1,6 +1,6 @@
 # Uphold-Bot-Connectivity
 
-This Node.js script fetches data for multiple currency pairs from the Uphold API and monitors the price oscillation of those pairs. It provides alerts when the price oscillation exceeds a specified threshold.
+This Node.js script fetches data for multiple currency pairs from the Uphold API and monitors the price oscillation of those pairs. It provides alerts when the price oscillation exceeds a specified threshold and logs them into a txt file.
 
 ## Prerequisites
 
