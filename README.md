@@ -11,6 +11,8 @@ Before running this script, ensure that you have the following prerequisites ins
 
 ## Usage
 
+In the terminal:
+
 1. Clone this repository to your local machine:
 
     ```terminal
