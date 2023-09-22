@@ -4,10 +4,10 @@ const fs = require('fs');
 const fsPromises = require('fs').promises;
 const path = require('path');
 
-const logEvents = async (oscillation, pair, value) => {
+const logEvents = async (oscillation, thresold, pair, value) => {
     const dateTime = `${format(new Date(), 'dd/MM/yyyy HH:mm:ss')}`;
 
-    const logItem = `ID: ${uuid()}\tDateTime: ${dateTime}\tOscillation Percentage: ${oscillation}%\tCurrency Pair: ${pair}\tCurrent Value: ${value}\n`;
+    const logItem = `ID: ${uuid()}\tDateTime: ${dateTime}\tOscillation Percentage: ${oscillation}%\tOscillation Threshold: ${thresold}%\tCurrency Pair: ${pair}\tCurrent Value: ${value}\n`;
     console.log(logItem);
 
     try{

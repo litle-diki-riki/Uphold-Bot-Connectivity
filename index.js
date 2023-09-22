@@ -41,7 +41,7 @@ async function fetchCurrencyPair(pair) {
 
         if(Math.abs(oscillationPercentage) >= oscillationThreshold) {
             pairData[pair].previousAlertedValue = currentPrice;
-            logEvents(oscillationPercentage, pair, currentPrice);
+            logEvents(oscillationPercentage, oscillationThreshold, pair, currentPrice);
         }
 
     } catch (error) {

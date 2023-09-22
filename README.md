@@ -48,7 +48,7 @@ Replace `[currencyPairs]`, `[fetchInterval]`, and `[oscillationThreshold]` with 
 
 ## Requirments Implemented
 
-- Phase 1 
+- Phase 1 ✔
 
 - Phase 2:
     - Enable the bot to handle multiple currency pairs concurrently, allowing it to monitor
@@ -56,3 +56,8 @@ Replace `[currencyPairs]`, `[fetchInterval]`, and `[oscillationThreshold]` with 
 
     -  Accept all parameters, such as currency pairs, fetch interval, price oscillation
     percentage, etc., as arguments to enhance flexibility and customization. ✔
+
+- Phase 3:
+    -  Store relevant information in the database for each alert, including timestamps, rates,
+    and the bot configuration at the time of the alert. This allows for comprehensive
+    tracking and analysis of the alerts over time. ✔
