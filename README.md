@@ -45,3 +45,14 @@ Replace `[currencyPairs]`, `[fetchInterval]`, and `[oscillationThreshold]` with 
 
 - `axios` - Used for making HTTP requests.
 - `logEvents` - A custom module for logging events.
+
+## Requirments Implemented
+
+- Phase 1 
+
+- Phase 2:
+    - Enable the bot to handle multiple currency pairs concurrently, allowing it to monitor
+    and analyze several pairs simultaneously. ✔
+
+    -  Accept all parameters, such as currency pairs, fetch interval, price oscillation
+    percentage, etc., as arguments to enhance flexibility and customization. ✔
